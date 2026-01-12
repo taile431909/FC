@@ -188,6 +188,23 @@ DItemRevisionGUID=
 GenerateClassCluster=0
 DocumentUniqueId=JRYWJULY
 
+[Document9]
+DocumentPath=FMUM.PCBDwf
+AnnotationEnabled=1
+AnnotateStartValue=1
+AnnotationIndexControlEnabled=0
+AnnotateSuffix=
+AnnotateScope=All
+AnnotateOrder=-1
+DoLibraryUpdate=1
+DoDatabaseUpdate=1
+ClassGenCCAutoEnabled=1
+ClassGenCCAutoRoomEnabled=0
+ClassGenNCAutoScope=None
+DItemRevisionGUID=
+GenerateClassCluster=0
+DocumentUniqueId=LVTEZMNC
+
 [GeneratedDocument1]
 DocumentPath=Project Outputs for FMUM\BGA Escape Route - FMUM.html
 DItemRevisionGUID=
