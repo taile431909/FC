@@ -1,0 +1,5 @@
+Layer Pairs Export File for PCB: C:\Miscellaneous\1.CT UAV\abc\FC\FC\FMUM.PcbDoc
+LayersSetName=Top_Bot_Thru_Holes|DrillFile=fmum.txt|DrillLayers=gtl,gp1,g1,gp2,gp3,g2,gp4,gbl
+LayersSetName=Top_Signal1_Blind_Vias|DrillFile=fmum.tx1|DrillLayers=gtl,gp1,g1
+LayersSetName=Signal1_Signal2_Buried_Vias|DrillFile=fmum.tx2|DrillLayers=g1,gp2,gp3,g2
+LayersSetName=Signal2_Bot_Blind_Vias|DrillFile=fmum.tx3|DrillLayers=g2,gp4,gbl
