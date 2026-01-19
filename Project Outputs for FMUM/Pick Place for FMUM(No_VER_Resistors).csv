@@ -4,13 +4,15 @@ C:\Miscellaneous\1.CT UAV\abc\FC\FC\Project Outputs for FMUM\Pick Place for FMUM
 ========================================================================================================================
 File Design Information:
 
-Date:       14/01/26
-Time:       13:25
-Revision:   ef570f83628da3d954bb98b59b3bb8428308de09
+Date:       19/01/26
+Time:       10:17
+Revision:   1eb27d6e5438252e4bccc6ead86ffaefe6798c79
 Variant:    No_VER_Resistors
 Units used: mil
 
 "Designator","Comment","Layer","Footprint","Center-X(mil)","Center-Y(mil)","Rotation","Description"
+"J4","CONN HDR 50POS 0.4MM SMD GOLD","BottomLayer","HIROSE_DF40C-50DP-0-4V51","27.559","480.315","90","CONN HDR 50POS 0.4MM SMD GOLD"
+"J3","CONN HDR 100POS 0.4MM SMD GOLD","BottomLayer","HIROSE_DF40C-100DP-0_4V51","1047.244","480.315","90","CONN HDR 100POS 0.4MM SMD GOLD"
 "C2","10uF","TopLayer","CAP_0603","520.820","615.839","270","Capacitor SMD 0603"
 "U5","STM32H753IIK6","BottomLayer","FP-UFBGA176+25-A0E7-MFG","487.114","499.078","90","UFBGA 10X10X0.6 176+"
 "J1","TF-15x15","TopLayer","TF15X15","635.984","311.653","0","-25?~+85? 2mm Connector and Ejector MicroSD Card (TF Card) Push-Push SMD SD Card / Memory Card Connector ROHS"
@@ -24,7 +26,6 @@ Units used: mil
 "D3","GREEN","TopLayer","LED_0603_GREEN","139.964","156.651","270","LED 0603 GREEN SMD"
 "D2","RED","TopLayer","LED_0603_RED","197.000","156.055","270","LED 0603 RED SMD"
 "D4","BLUE","TopLayer","LED_0603_BLUE","74.232","156.071","270","LED 0603 BLUE SMD"
-"U1","IC SOM FMUV5X FMU TO BASE SMT","BottomLayer","SOM_FMUV5X_FMU_TO_BASE","605.216","480.315","180","IC SOM FMUV5X FMU TO BASE SMT"
 "C26","2.2uF/10V","TopLayer","CAP_0603","581.599","657.149","270","Capacitor SMD 0603"
 "R39","2K","BottomLayer","RES_0402","897.638","1011.811","0","Resistor SMD 0402"
 "Q2","AO3400A","TopLayer","FP-SOT23-MFG","733.000","932.756","90","MOSFET N-CH 30V 5.7A SOT23"
